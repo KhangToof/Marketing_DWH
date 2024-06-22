@@ -1,4 +1,4 @@
-![image](https://github.com/KhangToof/Marketing_DWH/assets/93634247/30fcbcf2-2359-4905-8186-5bb09f3b1025)# Marketing_DWH
+# Marketing_DWH
  **Market Analysis Data Warehouse**
 ## 1. Dataset
 - Data: [Marketing Campaign](https://github.com/YuehHanChen/Marketing_Analytics/blob/main/marketing_data.csv)
